@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Cabot Zabriskie
+# tagline:          'A Jekyll theme'
+#description:      Test Text
 url:              https://cabotzabriskie.github.io
-baseurl:          '/hydeout'
+baseurl:          # '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,8 +15,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Cabot Zabriskie'
+  url:            https://www.linkedin.com/in/cabot-zabriskie-30b38138
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -33,3 +33,5 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+github:
+  repo:           https://github.come/cabotzabriskie/cabotzabriskie.github.io
