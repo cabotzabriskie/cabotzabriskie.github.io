@@ -18,4 +18,5 @@ See the [code](https://github.com/cabotzabriskie/Grade-Prediction-Project)
 The Multi-Dimensional Item Response Theory (MIRT) projects were developed to uncover the factor structure of the most commonly used conceptual inventories in physics education: the Force Concept Inventory (FCI) and the Conceptual Survey of Electricity and Magnetism (CSEM). MIRT, which fits individual logistic models to each question (or item) represents a novel approach to factor analysis and is especially well suited for instruments not designed with a factor structure in mind. Using MIRT we were able to build highly statistically significant confirmatory models of both the FCI and the CSEM.
 
 You can read the MIRT FCI paper [here](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.14.010137)
+
 The MIRT CSEM paper is currently under review.
