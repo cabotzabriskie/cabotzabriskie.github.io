@@ -27,4 +27,5 @@ The goal of this project is to build a robust statistical model of STEM student 
 
 One piece of this project involves developing machine learning models that predict both graduation with STEM degrees and graduation with only Engineering degrees in two separate ways, first an overall picture ignoring the effect of time and second, at three points in a student's academic career: at entry to the university, after the first semester of study, and after the second semester of study.The time independent models performed very well with accuracies of 89% when using all variables at our disposal. The "windowed" models also performed well with between 70%-80% accuracy. Both of these models provide insight into the degree to which registrar level variables held by universities can be used to understand retention. As our database of survey data grows, we intend to combine both datasets to develop a more complete picture.
 
+Windowed Graduation Code can be found [here](https://github.com/cabotzabriskie/Windowed-Grad-Prediction)
 
